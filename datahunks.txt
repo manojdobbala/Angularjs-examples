@@ -8,8 +8,11 @@ thjis is hunk one
 }
 
 
+{
 
+this is test hunk one
 
+}
 
 
 
@@ -22,5 +25,9 @@ this is hunk two
 {
 
 this is hunk three
+}
+
+{ 
+this is test hunk three
 }
 
