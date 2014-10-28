@@ -1,4 +1,4 @@
 Angularjs-examples
 ==================
 
-just for fun
+This space for all the Angular based examples covering up various scenarios
