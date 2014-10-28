@@ -27,3 +27,4 @@ Git-Tutorials
 <li>git push remote-name: branchname  :delete a remote branch </li>
 <li>git merge: merge a branch context into your current one </li>
 </ul>
+<pre>&lt;tt&gt;rails new myapp&lt;/tt&gt; (where &lt;tt&gt;myapp&lt;/tt&gt; is the application name)</pre>
