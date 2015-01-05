@@ -28,3 +28,4 @@ Git-Tutorials
 <li>git merge: merge a branch context into your current one </li>
 </ul>
 <pre><a href="https://www.atlassian.com/git/?utm_source=bitbucket&utm_medium=link&utm_campaign=homepage&utm_content=free_git_tutorials">Getting GIT right</pre>
+<pre><a href="https://try.github.io/levels/1/challenges/1">Practice Basic commands</pre>
