@@ -13,6 +13,7 @@ Git-Tutorials
 <li>git diff --cached: show diff of staged changes </li>
 <li>git diff HEAD: show diff of staged or unstaged changes </li>
 <li>git diff –stat: show summary of changes instead of full diff </li>
+<li>git reset <filename> : to unstage the file </li>
 <li>git commit: to record your snapshot in your history </li>
 <li>git reset: (most confusing) undo changes and commits </li>
 <li>git reset HEAD unstage files from index and reset pointer to HEAD </li>
